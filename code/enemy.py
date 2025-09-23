@@ -5,4 +5,8 @@ from Entity import Entity
 
 
 class Enemy(Entity):
-    pass
+    def __init__(self):
+        pass
+
+    def move(self, ):
+        pass
