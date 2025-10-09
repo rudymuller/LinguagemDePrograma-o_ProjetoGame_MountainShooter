@@ -11,7 +11,7 @@ from code.Enemy import Enemy
 from code.EntityMediator import EntityMediator
 from code.Player import Player
 from code.const import C_WHITE, WIN_HEIGHT, MENU_OPTION, EVENT_ENEMY, SPAWN_TIME, C_GREEN, C_CYAN
-from code.Entity import Entity
+from code.Enemy import  Enemy
 from code.EntityFactory import EntityFactory
 
 
