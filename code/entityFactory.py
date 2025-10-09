@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 import random
 
-from code.background import Background
+from code.Background import Background
 from code.const import WIN_WIDTH, WIN_HEIGHT
-from code.enemy import Enemy
-from code.player import Player
+from code.Enemy import Enemy
+from code.Player import Player
 
 
 class EntityFactory:
@@ -27,67 +27,3 @@ class EntityFactory:
                 return Enemy('Enemy1', (WIN_WIDTH + 10, random.randint(40, WIN_HEIGHT - 40)))
             case 'Enemy2':
                 return Enemy('Enemy2', (WIN_WIDTH + 10, random.randint(40, WIN_HEIGHT - 40)))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

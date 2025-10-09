@@ -18,7 +18,7 @@ class Menu:
         pygame.mixer_music.load('./asset/Menu.mp3')
         pygame.mixer_music.play(-1)
         while True:
-            #DRAW IMAGES
+            # DRAW IMAGES
             self.window.blit(source=self.surf, dest=self.rect)
             self.menu_text(70, 'Mountain', COLOR_ORANGE, ((WIN_WIDTH / 2), 70))
             self.menu_text(70, 'Shooter', COLOR_ORANGE, ((WIN_WIDTH / 2), 120))
@@ -57,45 +57,3 @@ class Menu:
         text_surf: Surface = text_font.render(text, True, text_color).convert_alpha()
         text_rect: Rect = text_surf.get_rect(center=text_center_pos)
         self.window.blit(source=text_surf, dest=text_rect)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
