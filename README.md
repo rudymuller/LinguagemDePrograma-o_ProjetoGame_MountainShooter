@@ -1,4 +1,4 @@
-![alter_text]https://github.com/rudymuller/LinguagemDePrograma-o_ProjetoGame_MountainShooter/blob/master/asset/Player1.png?raw=true"Moutain Shooter") # MOUTAIN SHOOTER  ![alter_text]https://github.com/rudymuller/LinguagemDePrograma-o_ProjetoGame_MountainShooter/blob/master/asset/Player1.png?raw=true"Moutain Shooter")
+![alter_text](https://github.com/rudymuller/LinguagemDePrograma-o_ProjetoGame_MountainShooter/blob/master/asset/Player1.png?raw=true "Moutain Shooter") # MOUTAIN SHOOTER  ![alter_text](https://github.com/rudymuller/LinguagemDePrograma-o_ProjetoGame_MountainShooter/blob/master/asset/Player1.png?raw=true "Moutain Shooter")
 ========================
 
 
