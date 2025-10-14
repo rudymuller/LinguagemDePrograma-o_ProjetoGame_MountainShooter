@@ -59,7 +59,7 @@ class Score:
             pygame.display.flip()
             pass
 
-    def show(self, id_=None):
+    def show(self):
         pygame.mixer_music.load('./asset/Score.mp3')
         pygame.mixer_music.play(-1)
         self.window.blit(source=self.surf, dest=self.rect)
