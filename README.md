@@ -10,4 +10,4 @@ Can be played coop (2 Players).
 Scoer is saved in a database (SQLLite3).
 
 
-### Fell free if want to contribute
+#### Fell free if want to contribute
