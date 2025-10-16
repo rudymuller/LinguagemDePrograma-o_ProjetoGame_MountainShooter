@@ -1,4 +1,4 @@
-from code.Entity import Entity
+from code.entity import Entity
 from code.const import ENTITY_SPEED
 
 

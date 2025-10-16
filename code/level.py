@@ -8,13 +8,13 @@ from pygame import Surface, Rect
 from pygame.font import Font
 
 
-from code.Entity import Entity
+from code.entity import Entity
 from code.EntityMediator import EntityMediator
-from code.Player import Player
+from code.player import Player
 from code.const import C_WHITE, WIN_HEIGHT, MENU_OPTION, EVENT_ENEMY, SPAWN_TIME, C_GREEN, C_CYAN, EVENT_TIMEOUT, \
     TIMEOUT_STEP, TIMEOUT_LEVEL
-from code.Enemy import Enemy
-from code.EntityFactory import EntityFactory
+from code.enemy import Enemy
+from code.entityFactory import EntityFactory
 
 
 class Level:

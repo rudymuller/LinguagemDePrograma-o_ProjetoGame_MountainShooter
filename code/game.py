@@ -5,8 +5,8 @@ import pygame
 
 from code.Score import Score
 from code.const import WIN_WIDTH, WIN_HEIGHT, MENU_OPTION
-from code.Level import Level
-from code.Menu import Menu
+from code.level import Level
+from code.menu import Menu
 
 
 class Game:

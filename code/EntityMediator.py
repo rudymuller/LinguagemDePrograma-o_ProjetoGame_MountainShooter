@@ -1,7 +1,7 @@
-from code.Enemy import Enemy
+from code.enemy import Enemy
 from code.EnemyShot import EnemyShot
-from code.Entity import Entity
-from code.Player import Player
+from code.entity import Entity
+from code.player import Player
 from code.PlayerShot import PlayerShot
 from code.const import WIN_WIDTH
 

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from code.EnemyShot import EnemyShot
 from code.const import ENTITY_SPEED, WIN_WIDTH, ENTITY_SHOT_DELAY
-from code.Entity import Entity
+from code.entity import Entity
 
 
 class Enemy(Entity):
